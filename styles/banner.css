@@ -1,7 +1,7 @@
 .banner {
     color: roxo #6b03a3 
     background: var(--roxo);
-    color: var(--branco);
+    color: var(--roxo);
     text-align: center;
     padding: 2.5em 2em;
 }
