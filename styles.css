@@ -6,6 +6,7 @@
 @import url("styles/rodapé.css");
 
 :root {
+    background-color: #E1C5F1;
     --cor-de-fundo: #E1C5F1;
     --lilas: #E1C5F1;
     --laranja: #EB9B00;
