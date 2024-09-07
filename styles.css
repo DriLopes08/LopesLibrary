@@ -9,6 +9,7 @@
     --cor-de-fundo: #E1C5F1;
     --lilas: #E1C5F1;
     --laranja: #EB9B00;
+    --azul-degrade: gradiente linear(97,54 graus, #e394ee 35,49%, #ffffff 165,37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
 }
